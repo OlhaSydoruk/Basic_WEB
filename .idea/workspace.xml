@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4a7d764-547d-4323-9043-31f9a093c715" name="Changes" comment="first lab">
-      <change beforePath="$PROJECT_DIR$/Lab1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,15 +31,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+    "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -59,7 +51,7 @@
       <workItem from="1694963700204" duration="2086000" />
       <workItem from="1697747138234" duration="723000" />
       <workItem from="1697747882992" duration="898000" />
-      <workItem from="1697750262405" duration="317000" />
+      <workItem from="1697750262405" duration="3320000" />
     </task>
     <task id="LOCAL-00001" summary="second lab">
       <created>1694897774979</created>
