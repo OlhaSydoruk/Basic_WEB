@@ -29,13 +29,10 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/sid19/WebstormProjects/WEB_5_semestr/WEB_Git",
-    "node.js.selected.package.tslint": "(autodetect)"
-  }
-}]]></component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/KPI/Java2023" />
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\sid19\WebstormProjects\WEB_5_semestr\WEB_Git" />
@@ -54,6 +51,10 @@
       <workItem from="1697747138234" duration="723000" />
       <workItem from="1697747882992" duration="898000" />
       <workItem from="1697750262405" duration="4331000" />
+      <workItem from="1697804878898" duration="645000" />
+      <workItem from="1697806290871" duration="76000" />
+      <workItem from="1697994006923" duration="1548000" />
+      <workItem from="1701875070856" duration="174000" />
     </task>
     <task id="LOCAL-00001" summary="second lab">
       <created>1694897774979</created>
